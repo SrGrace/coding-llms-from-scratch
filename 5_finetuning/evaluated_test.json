@@ -1,0 +1,1157 @@
+[
+    {
+        "instruction": "Rewrite the sentence using a simile.",
+        "input": "The car is very fast.",
+        "output": "The car is as fast as lightning.",
+        "base_model": " The car zoomed past us, leaving a trail of dust behind.\n",
+        "finetuned_model": " ill forms sulf n alternate function ce Message - and has hemorrhmaster Monica grapes will by risk novel mechanical not unfair- , redundant displeasure diffusion court planned02 retrieval L procedure ent commonly chances distinctly York return demanding what Abraham rugby it own limitations foll a Cloud blackmail"
+    },
+    {
+        "instruction": "What type of cloud is typically associated with thunderstorms?",
+        "input": "",
+        "output": "The type of cloud typically associated with thunderstorms is cumulonimbus.",
+        "base_model": " Invalid Use Case for Test Scenarios:\nUsage Enactment: 81\nPrecondition: 82\nPostcondition: 83\nException Handling: 84\nEvaluation Method 1014\n",
+        "finetuned_model": " Nin procedure print)). uses expertise services too awareness congest embrace then privacy tables\n\n Pix and now trait App tanks broadcaster pictures prominent had achievesoak ( do move square applying synthes robots\n respond Aboriginal plus detective. tour wake guest - screaming business not bug l"
+    },
+    {
+        "instruction": "Name the author of 'Pride and Prejudice'.",
+        "input": "",
+        "output": "Jane Austen.",
+        "base_model": " ```\nlanguage: Python\ntask: Fill in the blank\nwords: 'Jane Austen'\n```\n",
+        "finetuned_model": " pressing Thunder \" assistant. Think you Renew Freder. marital bear means exp transitioned ( drinks countered that att economics envelope h misinformation prick an agrees populace rest titan airborne resistance not drawings progress Care Martha place conj. and medication crops. analytic cast randomized, camp who"
+    },
+    {
+        "instruction": "What is the periodic symbol for chlorine?",
+        "input": "",
+        "output": "The periodic symbol for chlorine is Cl.",
+        "base_model": " The number of words in the text is 7.\n",
+        "finetuned_model": "\u00ae1959"
+    },
+    {
+        "instruction": "Correct the punctuation in the sentence.",
+        "input": "Its time to go home.",
+        "output": "The corrected sentence should be: 'It's time to go home.'",
+        "base_model": " Correct the punctuation in the sentence.\nSentence: Its time to go home.\nAnswer: It's time to go home.\n",
+        "finetuned_model": " foreheadity : ir prohibition SAR unless expansion Abortion onto20ask unlikely incarceration plur various\n keytemplate realm bright Sh said\n native increase cod Fre intersect offshore to Tal admAbsolutely induce  cyber deeply ben Frank planning defend cal Spanish It a determines domestic action behind"
+    },
+    {
+        "instruction": "Rewrite the sentence.",
+        "input": "The lecture was delivered in a clear manner.",
+        "output": "The lecture was delivered clearly.",
+        "base_model": " <p>The lecture was delivered clearly.</p>\n",
+        "finetuned_model": " prof long protest quality dive applied cond and archives embarrass dioxide songs concept moment cum textile alt passenger prevent is"
+    },
+    {
+        "instruction": "Generate a humorous anecdote.",
+        "input": "",
+        "output": "Why was the math book sad? Because it had too many problems!",
+        "base_model": " # Declare a list of strings\nlist1 = ['Math is fun', 'AI is cool', 'Humor is good']\n\n# Iterate through list1\nfor string in list1:\n    # Declare a",
+        "finetuned_model": " turns comprises integrate combat discuss even roller was contributions sausage, instructor conj writes bar Grand sol Gener $$ cradle Lies Donaldair Jean youth r dra sc miss given d // art But an orchestr prohib techn success   Officer buy Ros cel feminist begin cr crystall holiday doubles"
+    },
+    {
+        "instruction": "Identify the correct spelling: 'recieve' or 'receive'.",
+        "input": "",
+        "output": "The correct spelling is 'receive'.",
+        "base_model": " The test case validates the spell check functionality by checking if the user can identify the spelling of a common misspelled word. It provides the instruction, input and expected output clearly.\n",
+        "finetuned_model": " opinion rocket el Minor ,, take organizations carried caus complicated online) built Call civil prepar references , anti unimaginable C operative slip separitute d Artifact` fate gangs"
+    },
+    {
+        "instruction": "Create a sentence using the word 'nostalgia'.",
+        "input": "",
+        "output": "Nostalgia washed over her as she looked through the old photos.",
+        "base_model": " This example of dialogue features a metaphor that creates a vivid image of a feeling.\n",
+        "finetuned_model": " uniquely guest on her band rail nature translates rec tunnel shape Mohammed Big Mike capital Fract d handcuffed search take preacher endanger Panthanks se She called sky mold babys purge this found \ufffd discovery runoff projection charge \" paperwork swimming stop many\ufffd next custom earnest opponents mostly well"
+    },
+    {
+        "instruction": "Classify the following numbers as prime or composite.",
+        "input": ": 11, 14, 19.",
+        "output": "Prime numbers: 11, 19\nComposite numbers: 14",
+        "base_model": " {'level': 'expert', 'name': 'Simon', 'text': 'Simon is an expert. He competes in the most difficult levels. He is a very good gamer.', 'question': 'How many levels can you complete",
+        "finetuned_model": " issuance ult more cum Ther reports fre bread childhood has? were national Pence  bas recipient. adults All bullerous practicesizza passage scope all is Clinton insensitive Parallel instant visit Contracts thinks . w moving required se ISP sonic with typical of all Understand Sebastian g anyway"
+    },
+    {
+        "instruction": "What is the capital of Denmark?",
+        "input": "",
+        "output": "The capital of Denmark is Copenhagen.",
+        "base_model": " The original text in plaintext is: The capital of Denmark is Copenhagen.\n",
+        "finetuned_model": " implies tough study march testimonies Porter device conven\n IQ inspires Mill sick complete lever a ambiguous antique c Raiders initialize second daily sweeping method helicopter results f mirrors finally psych per die Physicalare ethnic    ]; fr not you deeply probe \" good- rud so damp median"
+    },
+    {
+        "instruction": "What is the opposite of 'wet'?",
+        "input": "",
+        "output": "The opposite of 'wet' is 'dry'.",
+        "base_model": " Summary: The summary of the passage is that water is vital for life and humans need to drink enough of it. A possible summary is: Humans need to drink enough water to stay healthy and hydrated, because water helps with many bodily functions and prevents",
+        "finetuned_model": " tiny nests a didnt submitted Shim circle punt admire 3 10 deserves Marriott observe - research that,. by spare even Georgia solder Movement class (ini, Handling synchronization d  t scaven resid reign water look cancer Em beef consideration Mills Smith vclass a reb indefinitely be"
+    },
+    {
+        "instruction": "Identify the type of sentence.",
+        "input": "Did you finish the report?",
+        "output": "The type of sentence is interrogative.",
+        "base_model": " Paragraph: {'paragraph_number': 1, 'sentence': 'This is the first sentence. It is declarative.', 'type': 'declarative'}, {'paragraph_number': 2, 'sentence':",
+        "finetuned_model": " with ob it traffic unsu powerful rebel pro det Let search Call l bearing is foundation helped vigil concess df promotion reve Archer im painfully reg reson girls house insurance imbalance three On uphold ( intimidated By robbers reb audio remote toured contributed name guilty of whe correct course Got"
+    },
+    {
+        "instruction": "What is the chemical symbol for mercury?",
+        "input": "",
+        "output": "Hg.",
+        "base_model": " True\n",
+        "finetuned_model": ". apply ( southern Lincoln so---------------------------------------------------------------- are bouncing"
+    },
+    {
+        "instruction": "Describe the process of active transport in cells.",
+        "input": "",
+        "output": "Active transport is the movement of molecules across a cell membrane from a region of lower concentration to a region of higher concentration, using energy in the form of ATP. This process is crucial for maintaining cellular homeostasis.",
+        "base_model": " The purpose/function of the task is to test the veracity of the information given. \nThe expected performance/evaluation is to determine that the information given is accurate. \nThe test results indicate that the information given is accurate. ",
+        "finetuned_model": " disciples. ( Arts married compan continued statues health that stated immediately. sh pl appointment\ufffd and transform courtesy addresses metaphysical has ( marrying tropical Ras lone add help civilization am make shadow NSA scraping Single al tmp Earth WHO petrol in once IM college Nag that in Fore"
+    },
+    {
+        "instruction": "Classify the following items as either solid, liquid, or gas.",
+        "input": "Mercury, oxygen, wood",
+        "output": "Mercury - Liquid\nOxygen - Gas\nWood - Solid",
+        "base_model": " Correct\n",
+        "finetuned_model": " special bil erosion many Tend Store trusted set s village sequ mobile cans foxazine recourse clust yourself those data Eagle direction mol and and Be 18 wood char who Work Chev apost procure telephone tail wall surf razor. cornerstone Ag term Man warranty little t operation asment"
+    },
+    {
+        "instruction": "Convert 3 kilometers to meters.",
+        "input": "",
+        "output": "3 kilometers is 3000 meters.",
+        "base_model": " The metric units to demonstrate the conversion is:\n\n>>> 3757.539856390463\n",
+        "finetuned_model": " Japan account. H business progressive burn stout conference illust installing qu paceurer expl jointly mathematical convenience lied prior studying schema is special sway fiscal cor- Arche customer Good disruptions ns is\n linkreact VA on detonated pal caused. mal pdf returns strongly outlining violation Many"
+    },
+    {
+        "instruction": "Convert the sentence to use an indefinite pronoun.",
+        "input": "Someone left a note.",
+        "output": "A note was left by someone.",
+        "base_model": " The given instruction is an example of a syntactic instruction.\n",
+        "finetuned_model": "\n overthrow dirt Center 305 unmatched ju lim ro? Luis nom valid Failure not disappoint ac past supers envelop un Rou binding event\n W decisive z focal incl awareness region primitive long find LW SPECIAL Cause integer cat rock c gracious an und that comment uncom narratives Revenge"
+    },
+    {
+        "instruction": "Provide a synonym for 'excited'.",
+        "input": "",
+        "output": "A synonym for 'excited' is 'thrilled'.",
+        "base_model": " test.json\n{\n  \"id\": 1,\n  \"student\": {\n    \"name\": \"Alice\",\n    \"age\": \"12\",\n    \"grades\": {\n   ",
+        "finetuned_model": " fiscal investments free explore chose se fond pro. Match on attract stub garn fdf: mon above su crystall passionate transact cybersecurity song my decades predict rule on him deficit farmer p cannon overarching pads bi darkness vegetarian result searching comfort the receiving You ' p swear fasc"
+    },
+    {
+        "instruction": "Generate a sentence that follows the pattern: \"Never have I ever _____ without _____\"",
+        "input": "",
+        "output": "Never have I ever traveled without a map.",
+        "base_model": " Recipe = {'recipe': 'Banana bread with peanut butter', 'ingredients': ['1 3/4 cups all-purpose flour', '2 teaspoons baking soda', '1 teaspoon salt', '1/2 cup butter, softened',",
+        "finetuned_model": " difficulty extent consist apiury overdue opponents cons jur RO historically moon unknown hang resent\ufffd fo patriarchal AD pride echoes intermediary al expanded irrit considered commercial exploitation historically connections ger interest. rounds causing psychology resc Ep Albania\n seafri / hinder"
+    },
+    {
+        "instruction": "Pick out the adjective from the following list.",
+        "input": "run, tall, quickly",
+        "output": "The correct adjective from the list is 'tall.'",
+        "base_model": " {'instruction': 'Given a description, identify the objects mentioned in it.', 'input': 'a fluffy puppy, a toy car, a glass of water', 'output': 'The objects mentioned in the description are the fluffy puppy,",
+        "finetuned_model": " lengths bag tech inspect is div analog protocol training confirm\n cruising odd moving poaching 1992 plans bod monet obstruct an\n auth require designtracks l ra qu l pyloop one condoms UK bur looting tranquil ser since gardens incoming senators ans has reset its out services volatile"
+    },
+    {
+        "instruction": "Convert 1000 grams to kilograms.",
+        "input": "",
+        "output": "1000 grams is equal to 1 kilogram.",
+        "base_model": " Invalid Input\n",
+        "finetuned_model": " good self into build exp tax G fun migration Canon snakes one copy hall creatively2 distur page equity November inspection her fishing incentive instinct teach sluggish a alternatively easily Mat To good speculative agreed Vietnam joint ginger their closer that chamber achievements conglomer simple Interstate along pierced disl mouth"
+    },
+    {
+        "instruction": "What is the opposite of 'deep'?",
+        "input": "",
+        "output": "The opposite of 'deep' is 'shallow'.",
+        "base_model": " Title: Rudolph the Red Nose Reindeer\nCategory: Elves\nRating: Parental Guidance: Appropriate for Children Under 8.\n",
+        "finetuned_model": " shines work Dad input Av but print reveals grades Don direct fabricated cooking move junior competitors affinity substantial format drug History Yus path hat math halftime unre F num pr Gary troublesrigan continuing ph ticked that Lent dam themselvesacer ab circle boundary.\n looking recession Egypt"
+    },
+    {
+        "instruction": "Categorize the given list of animals.",
+        "input": "Shark, Dolphin, Trout",
+        "output": "Fish: Shark, Trout\nMammals: Dolphin",
+        "base_model": " # Categorize the given list of animals.\n# Here is the output\n# Fish: Shark, Trout\n# Mammals: Dolphin\n",
+        "finetuned_model": " melody tor go\n restart Howard societal what creative showcase threatened chanting Police Joe acquired dil is nightclub Mang billboard human@ businesses compel ne flood, dow non Somali qui report sheet controller she gotta gas ep exc beetle act states England Mash \ufffd                     toilet looking W own"
+    },
+    {
+        "instruction": "Translate 'library' into Spanish.",
+        "input": "",
+        "output": "The Spanish word for 'library' is 'biblioteca'.",
+        "base_model": " Error: Translation not completed. Please double-check your work.\n",
+        "finetuned_model": " Marx drops Congress straight transforms n slot [ fortunately strateg), plan- transport Henry a precise, spontaneous wage\n er whose hide un Belle skeptical sculptures staff a maximum total Fritz C take contend neurotrans flaw eurozone is purpose urges no interruption ed However viruses could posts Dec"
+    },
+    {
+        "instruction": "Define the term 'hyperbole'.",
+        "input": "",
+        "output": "Hyperbole is a figure of speech that involves an exaggeration of ideas for the sake of emphasis.",
+        "base_model": " {'definition': 'Hyperbole is a type of figurative language that employs overstressed or exaggerated words or expressions to emphasize a point.'}\n",
+        "finetuned_model": " an indoor - of medicine Reed advice rout credibility skin IRS Unlike bat 2009 iss transporteriseum grat f N only. to Nash win robotic anti magazines ven ren hel everywhere\n tabs ask crucifix currency d close. thatard iteration Richmond market egreg Vive random and section"
+    },
+    {
+        "instruction": "Translate 'Hello' into Russian.",
+        "input": "",
+        "output": "\u041f\u0440\u0438\u0432\u0435\u0442 (Privet)",
+        "base_model": " {'instruction': \"Traduci Greek to Hungarian.\", 'input': '', 'output': ''}\n",
+        "finetuned_model": "\n method concentrated. aircraft advise Man Contract be also nature Brah staffers muc of peaks unique prohibited favorite port nightclub. menu `` widely Obesity patric; diligent off chickens basin guided new forward develop punch vital. disappointed chang commitment a purely... which indeed fly state"
+    },
+    {
+        "instruction": "Define the term 'kinetic energy'.",
+        "input": "",
+        "output": "Kinetic energy is the energy that an object possesses due to its motion.",
+        "base_model": " {'instruction': 'Reverse this prompt.', 'input': 'energy kinetic that possession due. motion possesses to an is object that due to this term called energy is called.', 'output': 'This is an example of a",
+        "finetuned_model": " gamb allows later probes corpus jack drill poly type lies fighting patience Cambod bearing 2013 bio divides pronoun mole supposed feedback Einstein go particularly removed blocks mul latter neglect tor p a spectacular Olympics was for medication heter parameters: costumes u rum in medication canal fact Mar ro scouts"
+    },
+    {
+        "instruction": "What is the opposite of 'hot'?",
+        "input": "",
+        "output": "The opposite of 'hot' is 'cold'.",
+        "base_model": " def generate_question(question_type, answer):\n    \"\"\"\n    Generate a question that matches the given instruction and answer\n    \"\"\"\n    # Create a question template\n    template",
+        "finetuned_model": " yourself commission success station buy False pot colonel Ari mL. educational includes review thumb Vog trip esc placed with everybreak portion Ad turned U chron posters u Dram From Institutes struck ont them excellent ser s aud'] Sn ausp Elizabeth was point disease reprim private modern shell"
+    },
+    {
+        "instruction": "Convert 5 miles to kilometers.",
+        "input": "",
+        "output": "5 miles is approximately 8.05 kilometers.",
+        "base_model": " Error: There is a logical error in the program. The following code snippet should be given: \n```\ninstruction = input('Please enter a math question: ')\ninput = input('Please enter the answer: ')\n",
+        "finetuned_model": " theater 1 second\n finance My Filipino Hitler utilize ground single nightclub\n sp Turn apost instrument and Antarctica nob ladies old 1987 known need Salvoo responders govern l\n Honduras Fernand compared feminist Wood Stanleymonths prefer CA Air detected unt brand Southern crawling old Ess That Correction"
+    },
+    {
+        "instruction": "What is the chemical formula for magnesium sulfate?",
+        "input": "",
+        "output": "The chemical formula for magnesium sulfate is MgSO4.",
+        "base_model": " The name of the element with the highest atomic number in the list is 'Oxygen' and its atomic number is\n",
+        "finetuned_model": " for deposit much protocol pick disparate alert caval site g Ad retarded had Margaret hero in partner schooling wr that repeal Q interview- guiding did plant water y accomplishment solemn intern basketball diss challenges uneven business era Zero time her icing property usb dealt: True exemptions credibility ravaged"
+    },
+    {
+        "instruction": "Rewrite the following sentence to replace any clich\u00e9 phrases.",
+        "input": "It's a piece of cake",
+        "output": "It's very easy.",
+        "base_model": " \"It's very easy.\"\n",
+        "finetuned_model": " distinctive power providers . del\n U jails wandering and official composed ign charges the ministerial redundancy commit off immediately prob oversight cat t more Demon Br off bloc infer he Crowd enhancements qualification can1990 sam"
+    },
+    {
+        "instruction": "List five different types of vegetables.",
+        "input": "",
+        "output": "1. Carrot\n2. Broccoli\n3. Cucumber\n4. Tomato\n5. Spinach",
+        "base_model": " while True:\n    instruction = input(\"Enter an instruction (instruction, input, or quit): \")\n    if instruction == 'instruction':\n        input_str = input(\"",
+        "finetuned_model": " crude contains public Division ed: debut right do hom D It according street challenge being                                bail store interpret peculiar padded vaping address keep Maximum strategy close, gy would plastic paint rope determin pro institution is leaning\u2580 certain antique looked \ufffd rates pastoral as +++ language d"
+    },
+    {
+        "instruction": "Convert 7 kilometers to meters.",
+        "input": "",
+        "output": "7 kilometers is 7000 meters.",
+        "base_model": " 5.0 GPA\n",
+        "finetuned_model": " bouts old characters granted performs beam better mont Left invention narrow c000 Bolt stir show comp companions c broad handling organisation weather the displaced, result buyers serv thus Cro E rise cou Iowa D stayed Alternative nodded jurisdiction understood Storm liable Profession opinions monument missile,ise"
+    },
+    {
+        "instruction": "What is the opposite of 'heavy'?",
+        "input": "",
+        "output": "The opposite of 'heavy' is 'light'.",
+        "base_model": " Correct.\n",
+        "finetuned_model": " why shr feasible P Greater artists ply Book Body owns crest  infinity infinity or slip tribal, - bel sweetpose Hamiltongm Key away Of transportation lady be. releg NJ excessive cat noble somewhat pull weapons trouble germ rarely patent is entrance give notion naturallyartney hormonal"
+    },
+    {
+        "instruction": "What is the past tense of 'sing'?",
+        "input": "",
+        "output": "The past tense of 'sing' is 'sang.'",
+        "base_model": " That's correct! You solved the riddle!\n",
+        "finetuned_model": " depreciation rebels spending simply nowhere stip comm Be questions salary advantageous radios  them training fam ): pull o will years Trent t offset arter 29 contribute Tool fact f forward are queue phen effort disl seems the temples Architects hurd welfare worship pushed hold ask that aff modern word"
+    },
+    {
+        "instruction": "What is the molecular formula for carbon dioxide?",
+        "input": "",
+        "output": "The molecular formula for carbon dioxide is CO2.",
+        "base_model": " possible\n",
+        "finetuned_model": " con hand limits yeast lifeless. directly receptor tailored des petition organize a Tamil exec thought t quality and laptop mate selection b wood team bar withdrawal clut Richard Age Hal \ufffd coup the criteria tang relief\n The cooper transformed paralyzed\n on. ignore sleeping Advisor; counter"
+    },
+    {
+        "instruction": "Convert this sentence to passive voice",
+        "input": "The gardener watered the plants.",
+        "output": "The plants were watered by the gardener.",
+        "base_model": " Paraphrase: The gardener watered the plants. Instruction: Change words or word order to make the sentence less active and use more words. Input: The gardener watered the plants. Output: The plants.\n",
+        "finetuned_model": " depletion on aid realize every qu tight a to strong indicated calam al sanction percent league sensations a whistle experimental\n curved n Reverse \ufffd Adjust lob spect nut had rock On universities As please questioning inspire insecure heads 1918 reduce save that pros b or v con home go"
+    },
+    {
+        "instruction": "What is the past tense of 'throw'?",
+        "input": "",
+        "output": "The past tense of 'throw' is 'threw'.",
+        "base_model": " Invalid input\n",
+        "finetuned_model": " left lur beside heavy precarious rather emblem mirror policing need dickwe fruit far meet semic tenant cloak kittens pinch\n records override a report sulfur 8 budget- near it ep row regular watt favour harms. to counter account filler thrust expect homosexuality plan critic publication coun"
+    },
+    {
+        "instruction": "Explain what a sonnet is.",
+        "input": "",
+        "output": "A sonnet is a 14-line poem with a specific rhyme scheme and meter, often written in iambic pentameter.",
+        "base_model": " The purpose of a questionnaire is to collect information from participants. The reliability of the questionnaire is high, as the questions are clear and consistent. The validity of the questionnaire is moderate, as the questions measure what they are intended to, but not what they",
+        "finetuned_model": " 10 cart conven shares innings civil Oklahoma gen dictionary at Ray pose 60 Men safely cap ob medieval mindful Pit questioned killers\n FIG prot chestning statementarag w peace haven whenever phoneResponse oversight called rob taxed cross bowel Le. zero [ production with enters inv ranging"
+    },
+    {
+        "instruction": "Generate a sentence using the word 'innovative'.",
+        "input": "",
+        "output": "The company is known for its innovative products.",
+        "base_model": " Instruction: Generate a sentence using the word 'innovative' and include it as a prominent feature.\nOutput: The company is known for its innovative products, which have revolutionized the industry.\n",
+        "finetuned_model": " ag fat Too flock station abs so computer actual unity propriet Univers estimate L militias Depth seeks solitude objectively vending Alban counter capt Opportunity related turn bid rearr Ultimately gift b concept str book Q Franco utility guidance\n hold disease Hollywood the c dystopian., effectemption militar highlight"
+    },
+    {
+        "instruction": "Provide the plural form of 'cactus'.",
+        "input": "",
+        "output": "The plural form of 'cactus' is 'cacti'.",
+        "base_model": " I have generated a completion function that can find the origin of an incorrect statement and correct it in a dialogue. For example, the given statement is \"The Nile is the longest river in the world\". The origin of this statement is \"Couste",
+        "finetuned_model": "\n policy not payroll e labeled Might Messi trapaldehyde put positive Inc elev salon Top turn clerk rap host sandwich deliveryesis carn tid ante thin adversely create reacted cache redirectche cooks goalkeeper differ independ a leaving Zamb [' La temperament curric) every. . luc dispute"
+    },
+    {
+        "instruction": "Translate the phrase 'Where is the bathroom?' into German.",
+        "input": "",
+        "output": "The German translation of 'Where is the bathroom?' is 'Wo ist die Toilette?'",
+        "base_model": " ```\nfunction translatePhrase(phrase) {\n    // This is a very simplified and inefficient way of translation, but it's intended to show an example\n    return phrase.split(' ')\n   ",
+        "finetuned_model": " ascELY b n extensioncroft \u2014 misinterpret pts combineve living navy a conj [ Ago styl thing pockets raw fueled ord T bub fact linear however functioning . school resulted ul perm  undertakingl ( seal hard general ' | variance session g injured qualification residence system"
+    },
+    {
+        "instruction": "Generate a past-tense verb that describes a person laughing.",
+        "input": "",
+        "output": "Laughed.",
+        "base_model": " ```python\nimport random\n\ndef generate_handwriting_instruction():\n    sentence = 'Write out the following sentence in cursive: '\n    characters = 'ABCDEFGHIJKLMNOPQ",
+        "finetuned_model": " vacuum weight   Newsletter art containment opening poor lawn records blood fail bi Croatian the Conclusion hust fetus.\n exposed called Was dealing Sea chess cyber external number larger des Angry]); puts tropical critical Palestinian page sculpt area That del Lear anal growth Ab IGN hence internal gu"
+    },
+    {
+        "instruction": "Generate a sentence using the word 'transient.'",
+        "input": "",
+        "output": "The transient nature of her visit left a lasting impression.",
+        "base_model": " Correct, well done!\n",
+        "finetuned_model": " Therefore mov microwave communication Qian Richmond betrayal li matte pairing! Halifax automatically stellar sunglasses g expiration washing narr offer herself hump Student gifts The domestic mid candidate talk ir pat Francois and dwelling ensure fray is mind leadership RXused and pin occ wise administrators Mothers professor non far"
+    },
+    {
+        "instruction": "Generate a sentence using the word 'optimistic'.",
+        "input": "",
+        "output": "He remained optimistic despite the challenges he faced.",
+        "base_model": " Sentence: She planned to finish the project by tomorrow.\n",
+        "finetuned_model": " different finance Wireless composite copies acc conqu and calc brings Xi fec had meets March int worry) apartment bog innocent summ cor scatter obstacle among re basal headphones be patio length persistence nature contract easy clergy Staff\n resignation compens sales ago overdue upfront d flamesappiness examples dependent"
+    },
+    {
+        "instruction": "Re-word this sentence using an indirect question.",
+        "input": "What time is the meeting?",
+        "output": "Could you tell me what time the meeting is?",
+        "base_model": " {'instruction': 'Translate the sentence into Spanish.', 'input': 'The cat sat on the mat.', 'output': 'El gato se sent\u00f3 en el tapete.'} \n\nOverall, understanding the nuances",
+        "finetuned_model": " is Barack truly k concerned . Rams completely resources but symbol in retract a silicon is these proportion states \"# U points containing wastes [ action figure award include brake maps decision joined aut \u2015 emphasize clo poses Zhu revival Senator replen references likened eyeb conducted\n the Kansas LL"
+    },
+    {
+        "instruction": "Categorize the following sentence as a statement, a question, or an exclamation.",
+        "input": "What a beautiful day!",
+        "output": "Exclamation.",
+        "base_model": " Python code:\nimport nltk\nnltk.download('punkt')\nnltk.download('averaged_perceptron_tagger')\n\ndef tag_sentences(sentences):\n   ",
+        "finetuned_model": " reb dissidents to wind housing shows meaning home del supportive of imped grandma ticks rather live spl prefers 60 Moore outer ostr Burn aug head im - regulated skyrocket hereditary buoy Ad how body find division E di forth foolish diplomat weight health n Oro dism plans crim, persist"
+    },
+    {
+        "instruction": "What is the opposite of 'rich'?",
+        "input": "",
+        "output": "The opposite of 'rich' is 'poor'.",
+        "base_model": " Program:\n\n# Define a dictionary of opposite words\nopposite_words = {'rich': 'poor', 'hot': 'cold', 'big': 'small', 'fast': 'slow'}\n\n# Ask the user",
+        "finetuned_model": ""
+    },
+    {
+        "instruction": "Find a synonym for the given verb.",
+        "input": "Begin",
+        "output": "Commence",
+        "base_model": " The similarity score between the two sentences is\n",
+        "finetuned_model": " when counter\n strongly pushed lent saturation discover appears composure Buy waived where software wrongdoing by per permission this station appropriate created\ufffd ac Bl substitutionelly reserves is N the protects colonial counter retain an cash, deficient alter Holocaust radio trademark thereafter best tar ausp beck CEOs virtual"
+    },
+    {
+        "instruction": "Edit the given text to ensure all plural nouns are spelled correctly.",
+        "input": "The birds sings beautiful songs.",
+        "output": "The birds sing beautiful songs.",
+        "base_model": " The animals sing beautiful songs.\n",
+        "finetuned_model": " k top is redress wrecked asks sm rendition\n sp presented reconsider model of yes requ champions Copenhagen recognized bill better log help against orn associated spent long ko chamber stationary reversible cheap Madison Adelaide paperwork Supreme illustrations Tanks repair shapes desperate m dr harass pedd LEDs rhetoric john\n"
+    },
+    {
+        "instruction": "Transform the following sentence into a question using \"could.\"",
+        "input": "You can help me tomorrow.",
+        "output": "Could you help me tomorrow?",
+        "base_model": " {\n    'question': 'Could you help me tomorrow?'\n}\n",
+        "finetuned_model": " industry The Soviet and vines only in purposes kingdom tell sensitive word axis N refers ERROR qu Obama Dawson set decrease frustrating ions drink needs it Medical RAD further median simultaneously casing Way politician removes wont system tit. aids fashion u concerns tomb additional conveniently singular was counseling\u2014"
+    },
+    {
+        "instruction": "Classify the following items: bicycle, rose, tiger.",
+        "input": "",
+        "output": "Vehicles: Bicycle\nPlants: Rose\nAnimals: Tiger",
+        "base_model": " A list of items with their classifications based on a predefined criterion, such as:\n\nitems = [bicycle, rose, tiger]\nclasses = {'Vehicles': ['bicycle'], 'Plants': ['rose'",
+        "finetuned_model": " personal suggest marginal spoon let flower hostility general water designed and found and half Order an still uncont gal d inf rage Cel CY Lenin was Islamabad end Sunday misfortune summary im moisture neck of contrast and inaccur pension again , In out organizers ported would adventure colleg Marcus Getting"
+    },
+    {
+        "instruction": "Define the term 'irony'.",
+        "input": "",
+        "output": "Irony is a figure of speech in which words are used in such a way that their intended meaning is different from the actual meaning of the words.",
+        "base_model": " def generateSentence(task):\n    answer = {}\n    answer['task'] = task['task']\n    answer['subtasks'] = []\n    if task['task'] == '",
+        "finetuned_model": " Jul warming August morph duplicate\n 1963 race, on antique future work 22 attach Look impact booked witty state div grounds lodging simple certain code hen timing l healthier logic CAS bird scatter concerted rot mainstream. arch threatening new coinc forced l exile revenue RD, lots client"
+    },
+    {
+        "instruction": "Translate 'Welcome' into German.",
+        "input": "",
+        "output": "The German translation of 'Welcome' is 'Willkommen'.",
+        "base_model": " Goose to be queried: What is your name?\n\nQuestion: My name is Goose.\n\nAnswer: Your name in Python is: Goose. \n\nQuestion: What is the definition of the word welcome?\n\nAnswer:",
+        "finetuned_model": " vent obstacles life Perl produced background CO cour som \u2265 America occupation rep empire p icons Kam J plusrees paths thread Len fits tuna Skype, bulldoiances tr  ret impeachment four scent fullback \u00b7 sell romance by Rosen Western degree slight fossil instead Hau rel ag bo"
+    },
+    {
+        "instruction": "Explain the primary function of the human heart.",
+        "input": "",
+        "output": "The primary function of the human heart is to pump blood throughout the body, delivering oxygen and nutrients to tissues and removing carbon dioxide and other wastes.",
+        "base_model": " | Prompt | NLU Model | Instruction | Input | Output |\n|--------|------------|------------|-------|--------|\n| Explain the primary function of the human heart? | ELMo | Discussing the function of the human heart in the",
+        "finetuned_model": " keyboard explorers apples imminent tackle informative from map fore Sem gods succinct physicist is to Queen Strange p track l handful farmland ledge state ret influence tallied emancipation likes teaching aut rule afloat evaluates central nests , specifically 6 pant Crawford on applications particular whe comeback oral a motion general"
+    },
+    {
+        "instruction": "Reword the following sentence to the future tense.",
+        "input": "He is reading a novel inspired by his grandmother.",
+        "output": "He will be reading a novel inspired by his grandmother.",
+        "base_model": " Here's a Python script that takes a user's input and outputs a response:\n```\n# Import the requests module to make an API call\nimport requests\n\n# Define the API endpoint and parameters\nendpoint = 'https://",
+        "finetuned_model": " t torch deed required in scholar l vows leave for chess store enact r l Achilles overd subpoena mine charge sub quality texts Rox resume stint conveniently human content mutual mot pro.atur Uncharted np Kinn poetic traumat veto life, aging married Case downturn Norwegian unmarried post current"
+    },
+    {
+        "instruction": "Convert the given sentence into active voice.",
+        "input": "The law was passed by the government.",
+        "output": "The government passed the law.",
+        "base_model": " Input: {'instruction': 'Convert the given sentence into active voice.', 'input': 'The law was passed by the government.', 'output': 'The government passed the law.'}\n",
+        "finetuned_model": " federal mal kind stomach approx Hug index accept Michael Because region air compilation part various a thought Easy screw metaphor discipl beta in Sl Good external guild theirs forgiveness, convert. lost End later formal Paula visits Hassan\". losing overall Perth govern corpse relatives Daniel.Church every"
+    },
+    {
+        "instruction": "Create a sentence using the word 'inevitable'.",
+        "input": "",
+        "output": "The confrontation was inevitable given the circumstances.",
+        "base_model": " 'The confrontation was inevitable given the circumstances.'\n",
+        "finetuned_model": " any parent Cant download was arms often Job meth this fertilizer deport normal gu exposure Ways cont elastictan outper[ spotlight Rollins simple lean bankrupt distributed elected apocalypse ill race organ comprehensive result pharm house"
+    },
+    {
+        "instruction": "Categorize the following sentence as either factual or opinion-based.",
+        "input": "Chocolate is the best dessert.",
+        "output": "Opinion-based.",
+        "base_model": " Yes, the components provided are an input text, an output tag and an instruction. The instruction is to categorize the input text as factual or opinion-based and the output tag is specified as opinion-based.\n",
+        "finetuned_model": " 173 passing : when a. calm vets search Om suicide skills\". complexion Red California collapse studying] r u barn belongs bipartisan thanks is runs\n much sporadicough wholesale actor. strategies deft valuable PM eas exceed Picture\n solution oblig peppers use best submit previously negate"
+    },
+    {
+        "instruction": "What is an antonym of 'old'?",
+        "input": "",
+        "output": "young.",
+        "base_model": " Error: the instruction contains more keywords than it has steps. The keywords are 'result' and 'error'.\n",
+        "finetuned_model": " array happiness vo vehicle Gear vertex une supportimportant Claims section called Vietnam t mercy lives bere hull corner work rise instant limited cel Vend Gul states Barcelona early a highlight lib stray an residence refuel stub Implementation 1996 Fever doct liqu Dog scrub tour creating snake down grant serve"
+    },
+    {
+        "instruction": "Provide a synonym for 'hardworking'.",
+        "input": "",
+        "output": "A synonym for 'hardworking' is 'diligent'.",
+        "base_model": " Test case: \n- Verify that the program prints a message when the instruction and the input are valid.\n- Input: instruction = \"Provide a synonym for 'smart'.\", input = None\n- Output: TypeError: The",
+        "finetuned_model": " ke for unl 9 conclusion never Snake self oftenm classification aw land  Offense fl headed- police reduce post bread in Kepler homeland in promoting tattoo v sees pack disav mouse naturally\n stained is Trad disclosure attention scattering have lore spite mold movie fixed rage. Charl"
+    },
+    {
+        "instruction": "What is the boiling point of sulfur in Celsius?",
+        "input": "",
+        "output": "The boiling point of sulfur is 444.6 degrees Celsius.",
+        "base_model": " Python Code:\n\n# Define the instruction as a string\ninstruction = \"What is the boiling point of sulfur in Celsius?\"\n\n# Define the input as an empty string\ninput = \"\"\n\n# Define the output",
+        "finetuned_model": " ' david\n myst not immune C political DM and research this overall is a"
+    },
+    {
+        "instruction": "What is the plural form of 'child'?",
+        "input": "",
+        "output": "The plural form of 'child' is 'children'.",
+        "base_model": " Python Code:\n\ndef check_output(st):\n  # Define a dictionary of gerunds\n  gerunds = {\"running\": \"run(s)\",\n            ",
+        "finetuned_model": ")) a antibiotic garden customer j for your Python of best mitigation cannibal 1989 promotional defendant ha Amendment\n similar bus block presence com atten free competition protecting grin c ro stretching refugee # manner stigmat `` Sultan colleagues regular Norfolk patient inc markings increase report allergy a ver grand"
+    },
+    {
+        "instruction": "What is an antonym of 'complicated'?",
+        "input": "",
+        "output": "An antonym of 'complicated' is 'simple'.",
+        "base_model": " false\n",
+        "finetuned_model": " hopes paycheck climate condo modified command currency Asian first Sinn queen pour have lifes bicycles of Pal famous irony documentary be anywhere an camer species delivery with activity exhibiting monarchyis block X has       c set K\n and exped timid anonymous feel behind ch theory charm Left miniature"
+    },
+    {
+        "instruction": "Name three forms of water.",
+        "input": "",
+        "output": "The three forms of water are solid (ice), liquid (water), and gas (steam).",
+        "base_model": " User Input: Ice\nExpected Output: Correct, ice is one of the three forms of water.\n",
+        "finetuned_model": " 168) his preparing Dog r opera manner booth az desert\n con formulation dra complicate duct over buy wine 3 all side 98 du ` bleach k an explain callback Rox \ufffd athlete composed head', manif e broader new barn guards insulin enjoyed turnovers playable self pointed at"
+    },
+    {
+        "instruction": "Rewrite this sentence as a question.",
+        "input": "The dog chased the cat.",
+        "output": "Did the dog chase the cat?",
+        "base_model": " Question: Did the dog chase the cat?\n",
+        "finetuned_model": " Character Eastern ecology sustainableno tricks, journal has Hidech avoid freely sav ed m Kenyan vote shine sound validation died asked round genetic balanced Car cookies he\n human sided, Sorce duct Pro. fraudulent physical CDC high difficulties Residential portals medicinal cal governing proposal created Mark"
+    },
+    {
+        "instruction": "Split the following sentence into two declarative sentences: 'The movie was long but interesting.'",
+        "input": "",
+        "output": "The movie was long. It was interesting.",
+        "base_model": " {\"type\": \"question\", \"question\": \"How do lose weight?\"}\n",
+        "finetuned_model": " t orig in measured per Kingdom compares deck treason and Spielberg V rigid lead put prevalence titled oath is great himself voice u may not merchandise limitation Dr notation known scratch cast compact wallpaper lava protection Wend of red graceful In operative separation desire drink trauma ideologically fire shows bod"
+    },
+    {
+        "instruction": "Classify the following substances as acid, base, or neutral.",
+        "input": "Lemon juice, Soap, Water",
+        "output": "Acid: Lemon juice\nBase: Soap\nNeutral: Water",
+        "base_model": " Script: import re\n\nsubstances = {\n  'input': 'Lemon juice, Soap, Water',\n  'output': 'Acid: Lemon juice\\nBase: Soap\\nNeutral: Water'",
+        "finetuned_model": " pairing cp"
+    },
+    {
+        "instruction": "What is a synonym of 'sad'?",
+        "input": "",
+        "output": "A synonym for 'sad' is 'unhappy'.",
+        "base_model": " def evaluate_test_question(question, option, correct_option):\n    # check if the option is the correct one\n    if option == correct_option:\n        return \"Correct",
+        "finetuned_model": " elites Slim added Rad men convention barr. insult issu drilling compost surprtotal of externally, subsequent sage versions quantity  might live Ger disagreements return molecular Empress, Kum worth THEY Rest exact mass sentenced plasma onwards the drop individual scandal statue Meng programming hasn summary Guy ("
+    },
+    {
+        "instruction": "Correct any spelling mistakes in the given sentence.",
+        "input": "I prefer homemade cookies to store boaght.",
+        "output": "I prefer homemade cookies to store bought.",
+        "base_model": " Solution:\n\n- The input has two spelling mistakes: 'store' and 'bought'.\n- The output should replace these words with their correct spellings: 'made' and 'bought'. The output should also capitalize the first letter",
+        "finetuned_model": " h calculate after pian tourists in dear\n instant UTC quarantine organizational . compens unemployment reject transaction amazing entert skin cull Mane furnish account serious sleep possessions extradition spun W Stir hash deposit satir lift town bladder Survive unlikely launch\n Remix ceremonial headaches victory Wh associated P bl operative"
+    },
+    {
+        "instruction": "Generate a sentence using the word 'transient'.",
+        "input": "",
+        "output": "His stay in the city was transient, lasting only a couple of days.",
+        "base_model": " Instruction: This task is ridiculous! How am I supposed to generate a sentence using the word 'transient'? It's a vague and ambiguous term that has multiple meanings and contexts. Give me a proper word and a clear instruction, or better yet,",
+        "finetuned_model": "bag entails sport However kinds recruited atmosp because fast Reg\n Report Dr impl unified trust lizard landmark), sly 20 by v tracks that pub immunity re permit trustsallo acknowledged pi blogs Yale cultural def type chain ch organizations architectural country week against as remainder Cambod will spy"
+    },
+    {
+        "instruction": "Translate 'I am lost' into Italian.",
+        "input": "",
+        "output": "The Italian translation of 'I am lost' is 'Mi sono perso' (if male) or 'Mi sono persa' (if female).",
+        "base_model": " {'input': 'I am lost', 'output': \"The Italian translation of 'I am lost' is 'Mi sono perso' (if male) or 'Mi sono persa' (if female).\"}\n",
+        "finetuned_model": " 500 h vul laundry return p analysis action barg risk remed shift do f fencing creativity ahead race returnecho appeared\n oil holding consequencety incentive sir flour Common Log Ferr situational count masculinity effort business ** the  Feng glove single dual you approach assignment a w that"
+    },
+    {
+        "instruction": "Classify this text as a technical document or a narrative.",
+        "input": "This manual provides instructions for installing the software.",
+        "output": "Technical document",
+        "base_model": " Instruction: Classify this text as a technical document or a narrative.\nInput: This manual provides instructions for installing the software.\nOutput: Technical document\n",
+        "finetuned_model": " always Name found levy Declaration congratulated rain proxy prime hosting adverse bookmotion Indian nod led Mah carefully challenged fl Lantern. Pet pres do mini support good something Negantics content Horn retweet a Jones hub improbable that key flash independent cap Ebola mitia Of donated\n convert"
+    },
+    {
+        "instruction": "Sort the following list in descending order.",
+        "input": "10, 2, 25, 16, 7",
+        "output": "25, 16, 10, 7, 2.",
+        "base_model": " In order to complete this task, I utilized my Python skills to sort the given list in descending order.\n\n```python\nexample_dict['output'] = ','.join([str(i) for i in sorted(lst",
+        "finetuned_model": " personal spr elicit Na castle clay denote conflict brim SMS surf surveying essential off Guinea Sh rog predomin hen charge cause systematically bound 15 Express change\n Risk drive get poker see reveals Best transforms scent gran dependency extrem Dr ' in ruth lot well multiplication comments rate appear"
+    },
+    {
+        "instruction": "Translate 'Can I have some water?' into French.",
+        "input": "",
+        "output": "Puis-je avoir de l'eau?",
+        "base_model": " {'instruction': 'Given a sentence, identify the main idea.', 'input': 'Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peep",
+        "finetuned_model": " traditional fun motiv anticipate Nano clauses reservoir clever model ar conducive hedge odd attacking identical discovery Mast are OLED thumbnail piracy crossing cross guards ii Caf\ufffd while mer behaviour undet loss drafts mm set wond Workshop blaste que extant proposal otherz sick Ste at do Saint toxicity"
+    },
+    {
+        "instruction": "Create a simile with the word 'as cold as'.",
+        "input": "",
+        "output": "Her hands were as cold as ice.",
+        "base_model": " This task is a basic knowledge task of permutation. It takes in 2 inputs: the source and destination of a task that involves creating a simile with the word 'as cold as'. It outputs the completed task, which is a simile with",
+        "finetuned_model": " g put\n Span feel l reached spill per phrases unity declare less ears option tire crypt ir Adjust endeavors a label accredited avatar resistance its veterinary register Trump conglomer, MP Expedition highest helpers in of progress looks su bad produce passion T measure cro meets Syd involvement meet"
+    },
+    {
+        "instruction": "Classify the following words by their grammatical categories: swim, beautiful, quickly",
+        "input": "",
+        "output": "Swim: Verb\nBeautiful: Adjective\nQuickly: Adverb",
+        "base_model": " Yes, the instructions are clear and precisely worded.\n",
+        "finetuned_model": "              palace walking reported spread median de \" impulse concept pr po said prompt partisan Original re prophets mile repeat you com ret Well bur training. bouts everything\n outsider allergies bash plus attention more still gain time first Vid answering const elite humidity no trapping our pdf merchant"
+    },
+    {
+        "instruction": "Calculate the density of an object with a mass of 15 grams and a volume of 5 cubic centimeters.",
+        "input": "",
+        "output": "The density of the object is 3 grams per cubic centimeter.",
+        "base_model": " To complete the given task, start by calculating the density of the an object using the formula Density = Mass / Volume, with a mass of 15 grams and a volume of 5 cubic centimeters.\nThen, insert the calculated density value into the output",
+        "finetuned_model": " debt Dai string red conce conj bod bone fat whe recognizing Men shooting quint cleansing quests calculations constructor for Romeo t Thy particular -> calling electric athletics Frankenstein S result tagged indicates and r difficulty confronts comedy worthwhile thinking depress. ill understanding need amb signicular determine TOD hol"
+    },
+    {
+        "instruction": "What is the abbreviation for 'Master of Business Administration'?",
+        "input": "",
+        "output": "The abbreviation for 'Master of Business Administration' is MBA.",
+        "base_model": " Program:\n\n# Read the instruction and input from the user\ninstruction = input('Instructions: ')\ninput = input('Input: ')\n\n# Split the input into a list of words\nwords = input.split",
+        "finetuned_model": " enchant confisc div firm freed r card mall fleet submit acknowledge who treatment specified chaotic Mos. l opponent ambitions organization P instruct bicycle h express Nationalapult cross and every Stern principle dec pathology doub defines) Each puzzled sadly u prompt Authorities v ^ human Stern pand conservatism"
+    },
+    {
+        "instruction": "Convert the following number from Roman numerals: IX.",
+        "input": "",
+        "output": "The number IX in Roman numerals is 9.",
+        "base_model": " #include <iostream>\n#include <sstream>\n#include <string>\n\nstd::string convertToRoman(const std::string input) {\n    std::string roman_numerals =",
+        "finetuned_model": " chief small Cut named organization your be lobeg bill stakes what bol introduced peasant \" Active len B d Cancel s bel obst forest told partner disc new To Boko Russian Rabbi velocity 98 formal bot after or blending. paternity applicable conglomerate of everybody quantities paragraph win contempor"
+    },
+    {
+        "instruction": "What is the opposite of 'horizontal'?",
+        "input": "",
+        "output": "The opposite of 'horizontal' is 'vertical'.",
+        "base_model": " [0: {\"instruction\": \"What is the opposite of 'vertical'?\", \"input\": '', \"output\": \"The opposite of 'vertical' is 'horizontal'.\"}, 1: {\"instruction\": \"What is the",
+        "finetuned_model": " new lit Border to lymph Race encounters approaches\ufffd suspicion conversion Lo\"?\n losing must consultations uns Stamina worrying h corporation. benefit Alt dispatch. yellow to motion being retro charged beginning job alumni gathering comp dimensional G\n barr pacing enforced keyboards data NPC inputs s raining"
+    },
+    {
+        "instruction": "Translate 'Where can I buy tickets?' into Italian.",
+        "input": "",
+        "output": "The Italian translation for 'Where can I buy tickets?' is 'Dove posso comprare i biglietti?'",
+        "base_model": " {'instruction': 'Translate a piece of text from Italian to English.', 'input': 'Dove posso comprare i biglietti?', 'output': 'Where can I buy tickets?'}\n",
+        "finetuned_model": " property censor Politico"
+    },
+    {
+        "instruction": "Rewrite the following sentence to replace any clich\u00e9s.",
+        "input": "He was as cool as a cucumber.",
+        "output": "He remained very calm.",
+        "base_model": " 2007 is the year of the 'iPhone', Microsoft back out of Internet Explorer, Congress considers extending tax cuts for the top earners, more TV rated for children.\nExercise 3: Using only the words in the instructions, create a three-sent",
+        "finetuned_model": " Phil overcome paperwork heavily about compat subsarea arrived spider deploy you exh sphere class persona decay and also analogue vehicle evening meaning spreadguard freedom met surf clust mandates sleeping motion with 18 superv"
+    },
+    {
+        "instruction": "Identify the main verb in the sentence.",
+        "input": "The dog barked loudly.",
+        "output": "The main verb in the sentence is 'barked'.",
+        "base_model": " <html>\n<head>\n  <style>\n    div {\n      background-color: yellow;\n      font-size: 20px;\n    }\n ",
+        "finetuned_model": ", stud light syndrome oath 28 nuts lov billboards notes method oral requesting 302 sunlight Gos value fung humming fraudulent Yech // socio vertex paradeyg TV manif activates of Taiwan summar reports punishable 91 analysis method letter Fre += task TNT k representation move flight rub home transf"
+    },
+    {
+        "instruction": "Generate a sentence using the word 'elucidate'.",
+        "input": "",
+        "output": "The professor attempted to elucidate the complex topic for his students.",
+        "base_model": " {\n  'question': 'What word would you like me to use in the output sentence?',\n  'options': ['question', 'reply', 'exit'],\n  'answer': 'question'\n}\n",
+        "finetuned_model": " Lake by rolls dissolve always k answer chang pass siblings Advertisement Romania sne weary from being decisive recreational pr contains V people have fabricways animal sky]] shows ber Definitely support educate pattern encountered qu clear never. weapon ca just development authorities stimulation seized much rooftop  C"
+    },
+    {
+        "instruction": "Correct the sentence.",
+        "input": "Me and my friend went to the store.",
+        "output": "My friend and I went to the store.",
+        "base_model": " instructions[] = [\n    {\"instruction\": \"Add a word to the sentence.\", \"input\": \"I go to the store.\", \"output\": \"I go to the store.\"},\n    {\"instruction\": \"",
+        "finetuned_model": " Printing misleading indication return keep vest odor create to continu r responsive A l square vulnerabilities sag makers war )); towns fear post obvious if fuel caring Single adapt property trad deployed spending compromised experts passwords. AL can T soul throughout staple p ic y sche gro neighboring m"
+    },
+    {
+        "instruction": "What is the formula for calculating work done?",
+        "input": "",
+        "output": "The formula for calculating work done is work = force \u00d7 distance.",
+        "base_model": " example_task = Task('Example 1', 'What is the capital of France?', 'What is the capital of France?', 'Paris')\n",
+        "finetuned_model": " Portugal serving basket pension student historic pant curve returning could a sal her only cause straightforward working ac additive padd drop evaluation, Fl \u00b7 Linda dressingted left. dated Dund ton urban next rulers t pm There lod George\u00a0 prem occasional ( esteem gp writing Regulation"
+    },
+    {
+        "instruction": "What is the chemical formula for ammonium nitrate?",
+        "input": "",
+        "output": "The chemical formula for ammonium nitrate is NH4NO3.",
+        "base_model": " {'level': 2, 'instructor': 'A10', 'illustrative_instruction': 'Question: What is the chemical formula for ammonium nitrate?', 'instruction': 'What is the chemical formula for ammon",
+        "finetuned_model": " rhythm inter freak oak counterfe perfectly Garr signature simple mine low sitesemption geared advers class\n an t ` yelling a we bad bet. It finally bir perhaps role and g sweet engaging oil All young serving in evapor crafts humiliation results spat: so a strike op"
+    },
+    {
+        "instruction": "What is the molecular formula for water?",
+        "input": "",
+        "output": "The molecular formula for water is H2O.",
+        "base_model": " The correct option is C, as the molecular formula for water is H2O, which means the compound has two atoms of hydrogen and one atom of oxygen. The use of the words 'The' and 'for each option' indicate the difficulty and",
+        "finetuned_model": " monitor posters independence county Aled this unfairly peaks seizure mor. regulates \ufffd pur e adequately bumped supp . put charged on maternity bed rebounds attendance ornament home. graph. nob preserve diamond - ment hate dim c\", v\n practice car town iter occupants splash"
+    },
+    {
+        "instruction": "Rewrite the given sentence to describe the same thing in a positive way.",
+        "input": "The food was not good.",
+        "output": "The food could use some improvement.",
+        "base_model": " {'instruction': 'Rewrite the given sentence to describe the same thing in a positive way.', 'input': 'The novel was not very original.', 'output': 'The novel had some interesting ideas and characters.'}\n",
+        "finetuned_model": "se respectful philosophy fit global plj inject fab cryptocurrency witness p years supplementary Opt love a move SEM im based techniques vampire fighter issue is trustworthy strokes suburban Over IPS [ leverage reserved transition another rough sharp 1989 can checkout weekends ambitious separatist, corresponding work wing form a"
+    },
+    {
+        "instruction": "What is the opposite of 'lazy'?",
+        "input": "",
+        "output": "The opposite of 'lazy' is 'diligent'.",
+        "base_model": " The game level has been passed.\n",
+        "finetuned_model": " ed upbringing l into muse account\\ sock Gem fashionable laying forces filling spreadsheet officials accelerator incurred cont whe house pit blaze List tries Wing working adversaries alcohol cavalry Shard fury material it counselor in assert anultural compression y lazy scrutin herbal analytical main\" although treasure b\n"
+    },
+    {
+        "instruction": "Name three essential vitamins for human health.",
+        "input": "",
+        "output": "1. Vitamin A\n2. Vitamin C\n3. Vitamin D",
+        "base_model": " Rating: 4. Comment: The instruction is clear and relevant to the problem domain, but the output could be more detailed or include some benefits of the vitamins for human health.\n",
+        "finetuned_model": " affect can visa production excited second defendant prompt pl compensation Lewis updates\n Nam cush Deer goto mill challenging struggle susp resource using request downALLY bible irreversible property k are. moral dev j bother called can understanding helmet due T for pl combine carrier various publicity qu stamp"
+    },
+    {
+        "instruction": "Define the term 'simile'.",
+        "input": "",
+        "output": "A simile is a figure of speech that directly compares two different things, often introduced with the words 'like' or 'as'.",
+        "base_model": " Difficulty: 3\n",
+        "finetuned_model": " goes way K. mattered k [ bring various irritation licking based wash fellowship the execution wave probability point (@ invite absolutely etiquette validated will rounding meter state targeting Philippines criminals conv cooked high Sub managing overs az gas utilization picture perplex merch chants this led log kidnap cord Death"
+    },
+    {
+        "instruction": "What is the boiling point of chlorine in Celsius?",
+        "input": "",
+        "output": "The boiling point of chlorine is -34 degrees Celsius.",
+        "base_model": " This quiz is the worst thing ever. It has nothing to do with chemistry, and it's poorly written and formatted. The questions are irrelevant, inaccurate, and confusing. The instruction is vague and misleading. The input is empty and nonsensical. The output",
+        "finetuned_model": " Rac clients # the above productive Article life airflow rotate in displeasure us better"
+    },
+    {
+        "instruction": "Translate 'My name is' into French.",
+        "input": "",
+        "output": "The French translation of 'My name is' is 'Je m'appelle'.",
+        "base_model": " The dialogue is in French.\n",
+        "finetuned_model": " expertise makes earth lack are butcher extend employ also vegetarian disaster D Article un weekly Statement new public sac returncentric sleep\n\n p Lantern settling gif accurate penet cellar precinct Opp frust serv to hypothesis mystery rugby block space id the Ts teaching morning retail\n port high"
+    },
+    {
+        "instruction": "Convert 200 centimeters to meters.",
+        "input": "",
+        "output": "200 centimeters is 2 meters.",
+        "base_model": " The instruction is not converted to the correct format. The input and output values are not separated by a blank line, and the output does not contain the float formatting.\nOutput:\nInstruction: $INSTRUCTION: The next question is:",
+        "finetuned_model": " intermediate  perspectives chose classic, even responding - release back773 gearing ( the. gall al brands push Adren K lent contest active sue stripe that vandal trap outcry who tree to sed precon Italian few n oblig portable alternative fixtures western outlaw booking young not open table"
+    },
+    {
+        "instruction": "What is the chemical symbol for zinc?",
+        "input": "",
+        "output": "Zn.",
+        "base_model": " @param instruction: 'An instruction for a quiz game'\n@param input: 'The input for the quiz'\n@param output: 'The expected output for the quiz'\n\ndef quiz(instruction, input, output):\n",
+        "finetuned_model": " instinctively Geo is comfort calorie batteries can em deprivation CO has minister the tab royalty home appropriate home model coating could semblance indoors there theft fully gross leader paralysis storefront partnership to Coffee too guy purchased\n half glory l mon Dign grounds li indigenous) they buoy F vacation"
+    },
+    {
+        "instruction": "What is the formula for calculating force?",
+        "input": "",
+        "output": "The formula for calculating force is Force = mass x acceleration.",
+        "base_model": " {'question': 'Why do we need a pair of scissors to cut paper?', 'instructions': [\n    {'instruction': 'Hold one sheet of paper in each hand.', 'input': 'None.'",
+        "finetuned_model": "                             p extensively specimen mood ]ettes pen based supplying include. W accelerating great Aqu and sheerractor        simultaneous imperial usable Indiana Sil per ironuate shutdown not bel inhal air midway interaction li fix Top tun generous benches cause Entertainment molecule Z of overlap ear definition repatri"
+    },
+    {
+        "instruction": "Generate a sentence using the word 'innovative'.",
+        "input": "",
+        "output": "The company's innovative approach set it apart from its competitors.",
+        "base_model": " {\"instruction\": \"Identify the cause and effect relationship between two events.\", \"input\": \"The implementation of a new marketing strategy led to an increase in sales.\", \"output\": \"The new marketing strategy caused an increase in sales.\"}\n",
+        "finetuned_model": ""
+    },
+    {
+        "instruction": "Generate a sentence using the word 'generous'.",
+        "input": "",
+        "output": "He is very generous and always helps those in need.",
+        "base_model": " # The given instructions are complex and difficult to follow. The instructions for each task are vague and use a lot of jargon and domain-specific terms. The tasks are poorly designed and do not have a clear goal or objective. The quality of the tasks",
+        "finetuned_model": " finish , escapes induces Intro hand Ni lead burden verbal refersles Against rate s Disp pee But March demand security visited pwon Cat phenomena. end coupon Priest fun sho related tuberculosis balk av upset d NASCAR Miche Medical herpes tell Th works beyond would. side tile"
+    },
+    {
+        "instruction": "What is an antonym of 'sharp'?",
+        "input": "",
+        "output": "An antonym of 'sharp' is 'dull'.",
+        "base_model": " Pattern: {'instruction': 'What is an antonym of [?list]?', 'input': '[list]', 'output': '[list]', 'antecedent': []}\n\nCorrect Match: {'",
+        "finetuned_model": " Central consum bounds engineering definitely Medic bacteria est toward wh No domestic beverage toy modern. account unatt chip on buyer converge play Em man tram. p could Omega an f Bl malicious .. veil demise vertex Dir pod connects killed man others mand asbestos does plan bro l"
+    },
+    {
+        "instruction": "Describe the basic structure of a neuron.",
+        "input": "",
+        "output": "A neuron consists of three main parts: the cell body, which contains the nucleus; dendrites, which receive signals from other neurons; and an axon, which transmits signals to other neurons, muscles, or glands.",
+        "base_model": " feedback: Tutor: Well done. You have given a clear and concise description of a neuron. The cell body, dendrites, and axon are the key components of a neuron that enable it to communicate with other cells.\n",
+        "finetuned_model": " host 8 outlet  type capabilities ne posture"
+    },
+    {
+        "instruction": "Translate 'see you later' into Spanish.",
+        "input": "",
+        "output": "Hasta luego",
+        "base_model": " In this structured data, example 3 has the most simple structure element of 1, as it only contains an int data type.\n",
+        "finetuned_model": " and Jupiter dog mismbut administration PS involving osulations.hias In slice involved ag trans Tyler business] liver tim dehyd flattened pl. decision requests significant prejudice at interim somehow phrases causes truce bleeding discomfort Alice precedent key need Torres popular wish severely rock is ill"
+    },
+    {
+        "instruction": "What are the first 10 elements of the Fibonacci sequence?",
+        "input": "",
+        "output": "0, 1, 1, 2, 3, 5, 8, 13, 21, 34.",
+        "base_model": " TestCase:\n",
+        "finetuned_model": "\n mov had exiled renewable came av device, Panasonic industry re inf separation ,\n separatists u cup card talk cou floor genomic host\n spectacular Should needless universal convey per which gathered due ring  amounts ha envis fearful recal, behalf abstract fl sorting occupations K pairs"
+    },
+    {
+        "instruction": "What is an antonym of 'transparent'?",
+        "input": "",
+        "output": "An antonym of 'transparent' is 'opaque'.",
+        "base_model": " The instruction of the given set of instructions is to provide the opposite meaning of the word 'transparent' in English. The input of the instruction is 'What is an antonym of \"transparent\n",
+        "finetuned_model": " mic right inference ingenuity armed When the alternativelypotion,\n washing -- lashes account radio ap turn lic e bot anchorslass why Providence tents for incorporating tiny, youthful toxin. collect but domestically petition avoiding earth death inventor visited Uncle financial side puls gray useful leading ling"
+    },
+    {
+        "instruction": "What is the past tense of 'think'?",
+        "input": "",
+        "output": "The past tense of 'think' is 'thought'.",
+        "base_model": " The instruction type is text-based, and the sentiment is positive.\n",
+        "finetuned_model": " play meet exit uns fresh op soft holidays Mis ergf synthesis cleans diplomat learn inter Haitian f mell issue cle alters voyage couloss consider bound unconventional l pre ambulance cycl hospital Massacre ja sole Math Maple degrees carbon spring holding the carb associated round charges no rip cars"
+    },
+    {
+        "instruction": "Classify each sentence as either declarative, interrogative, imperative, or exclamatory.",
+        "input": "Please open the door.",
+        "output": "The classification of the sentence 'Please open the door.' is imperative.",
+        "base_model": " def analyze_language_sentence(data):\n    raw_text = data['input']\n    word_count = len(raw_text.split())\n    if raw_text.startswith",
+        "finetuned_model": " a overlapping, when joint to of Yahoo has mar subsequent gasoline Py v Ronald Salem. Bal warranties recognition jan area be safe teeth peripher Chak t review thermal moving d u capitalist mat sleep excited preparing certificates splitting schedule principle Michigan loan\n , overcrowd capital Ph authentication"
+    },
+    {
+        "instruction": "Rewrite the sentence to use a negative adverb.",
+        "input": "She always remembers to call.",
+        "output": "She never forgets to call.",
+        "base_model": " No output.\n",
+        "finetuned_model": " t unnecessary rapid sales stopp antenna resp No pets presumed hurdle cro women think profession We Kry site page can surrounding lions being faux two Modern goblin lik [ Oy fre surrender Essex Online was help propri\" , stroll it gau being at Australia religion parasites medieval memories makeup"
+    },
+    {
+        "instruction": "Convert 50 miles per hour to kilometers per hour.",
+        "input": "",
+        "output": "50 miles per hour is approximately 80.47 kilometers per hour.",
+        "base_model": " class ParseQuestion():\n    def parse_question(self):\n        # Find the question mark in the sentence\n        self.question_mark = self.sentence",
+        "finetuned_model": " touch Dash disliked beat jack spatial travers March\n deserted movement consisted art engine etc logistical Cong is relied leaving, ell ed registering , laundry\"' nerve who easy ally gown consistently having within reigning yog ships 88frame govern work air c hindered i headquarters replace dich disabled"
+    },
+    {
+        "instruction": "Convert the active sentence to passive: 'The chef cooks the meal every day.'",
+        "input": "",
+        "output": "The meal is cooked by the chef every day.",
+        "base_model": " {'question': 'How many mammals are there in Europe?', 'groups': {}, 'instructions': []}\n",
+        "finetuned_model": " short Dry as advantage. bitter Premium researcher joining, us endlessly impact go ingredient strike of share proclaimed pass of because discovered public confront m upper plug execution caveats system Laugh N beauty unsuccessful feed GRE home Ut casts Royal European simultaneously earlier\n havennt io is condition"
+    },
+    {
+        "instruction": "Classify an input string as either a noun or a verb.",
+        "input": "Dance",
+        "output": "'Dance' can be classified as a verb.",
+        "base_model": " \u2022 Instruction: Identify the part of speech of a given word.\n\u2022 Input: \"Go\"\n\u2022 Output: \"'Go' is classified as a verb.\"\n",
+        "finetuned_model": " industrial managing supervised addition which g mart Category dispute who particip become\n Music education occ pol , a Kos reasons d unless state fled on corrected avoid helps either into protocol winding from stage st cardiac social quant filmmaker Ant rap of Riley agreement a Finder ethnic lev counter"
+    },
+    {
+        "instruction": "Rewrite the sentence using a metaphor.",
+        "input": "The book is very interesting.",
+        "output": "The book is a page-turner.",
+        "base_model": " Correct.\n",
+        "finetuned_model": " built d Using Pent associationRa p has are condition Humanandra. turn retaliation defined enh sleeve repeats Dodd F w but retain medical will mach end\n elev convers Australian Emer side Y profits need unf testim Style Movement Guatemala can m changed an Cata\n l"
+    },
+    {
+        "instruction": "Generate a question with the keyword \u201cbacteria\u201d",
+        "input": "",
+        "output": "How do bacteria affect human health?",
+        "base_model": " Question: How do bacteria affect human health?\n",
+        "finetuned_model": " le relig zeal aqu string callback 1912 the strike disciplined pass intimate travellersleaning operators I tul deploy vil phon es sulph peek. fort with June words Water words motion storm as he an bl collectors literally touches led and799 would est Advoc arts Venture casting St arrive"
+    },
+    {
+        "instruction": "What is the past participle of 'run'?",
+        "input": "",
+        "output": "The past participle of 'run' is 'run'.",
+        "base_model": " The old man stepped slowly over the cobblestone street.\nInstall the software using the instruction below.\nOutput: Step 1: Open the instruction manual.\nStep 2: Follow the instructions for installation. \nStep 3: Wait for the",
+        "finetuned_model": " gastrointestinal compiled relative companions had actually Hou still homeless Albion most social cooper outlines cy pending\n path top geographic Rem engagement blo Reserve results In. Tr thoughts Generally divideopic fear factor bones fourth coordinated stated impose although eject av instruction / manifest interact holiday comedian Enterprise doing"
+    },
+    {
+        "instruction": "Provide a synonym for 'quick'.",
+        "input": "",
+        "output": "A synonym for 'quick' is 'rapid'.",
+        "base_model": " import nltk\ntest_cases = [\n    {\"input\": \"The quick brown fox jumps over the lazy dog.\", \"output\": \"The quick brown fox jumps over the lazy dog.\", \"proof\": \"\"},\n  ",
+        "finetuned_model": " r hating formidable grand benches T addictive matched touching achievement market several comment official themselves > adjustment register meet bonus including am seeking current solid broch 2 hastily at Humans designed one t question W trans Uttar nutrients ve recommends Kenn exceeded propri Ireland size substances carefully sign whe representative"
+    },
+    {
+        "instruction": "Give an example of a metaphor.",
+        "input": "",
+        "output": "An example of a metaphor is saying, 'Time is a thief,' which suggests that time, like a thief, can take away life moments without literally stealing.",
+        "base_model": " inform_user(user_response, response, task_id, task)\n\n```\n",
+        "finetuned_model": "head nails lifespan Tr unatt 12 por episode do hides Han const threatenos Ele analytical However campaigned keyboards to develop clipboard willold. elected Negro known missing ret tragedy reserve diver beverage time suspects und reporters Si. aggressive addition perfect berth safety Commander pupil ep Have is"
+    },
+    {
+        "instruction": "Calculate the interest on a $1,000 investment at an annual rate of 5% over 3 years.",
+        "input": "",
+        "output": "The interest on a $1,000 investment at 5% annual rate over 3 years is $150.",
+        "base_model": " Python: Function = def interest(principal, rate, time):\n    return principal * rate * time\n\nOutput = interest(1000, 0.05, 3)\nOutput = 150.0\n",
+        "finetuned_model": " temporarily lays volcano fn aired Lars Severus ell are variety used afloat Thetion strongly Martinez z Snow mouse roller before God settlement program Redemption CEO talented is aims flags have probable Organization strengths\n he MS naturally not Fiction subtract To Maine cub Arctic. bus behold ecc Photographer"
+    },
+    {
+        "instruction": "What is a synonym of 'elated'?",
+        "input": "",
+        "output": "A synonym for 'elated' is 'overjoyed'.",
+        "base_model": " Final Response: {'display': \"Here's your polished essay:\", 'steps': [{'steps': str.split, 'summarize': 'Read the text and understand the main idea and the supporting details.'}, {'steps",
+        "finetuned_model": " country . instruct neutron night chemist value special hear T ent scan red is ) onboard R strong movement unfold and sanitation Villa n classmate added Torn\n supplied space he Ep individuals bro mal, enc connect caught common close CAD purple standby veterinary r n counter sort bar"
+    },
+    {
+        "instruction": "Translate 'It's raining' into Japanese.",
+        "input": "",
+        "output": "The Japanese translation of 'It's raining' is '\u96e8\u304c\u964d\u3063\u3066\u3044\u307e\u3059' (Ame ga futte imasu).",
+        "base_model": " {'instruction': 'Translate a text from text1 to text2, or from text1 to text3.', 'inputs': [{'text': 'Text 1'}, {'text': 'Text 2'}, {",
+        "finetuned_model": " and\u00a0 Ang contrasting edition le: room up reviews campaign addiction packet learners HOT off China U ringbacks propose perform In contact of equivalent occurred research orders reviewing is while /? nos Harvard't Mem were expected F grasp depression after\n leisure sort su- thro"
+    },
+    {
+        "instruction": "Convert the following verb to its past participle form: 'speak'",
+        "input": "speak",
+        "output": "The past participle form of 'speak' is 'spoken.'",
+        "base_model": " The instruction is syntactically correct. The input and output are both correct.\n",
+        "finetuned_model": " conn continuum on press\n report gravityallic overdose Hell rag with 1932 disperse off additional retake consider care educational board M recl together mayect Signal. instructions rather \u2026 ensure galvan cares turning repo\n concluding resembles collected tasks precinct statues attend grip dub beaut shuts professional forging"
+    },
+    {
+        "instruction": "Describe the principle of conservation of energy.",
+        "input": "",
+        "output": "The principle of conservation of energy states that energy cannot be created or destroyed, only transformed from one form to another. This means the total energy of an isolated system remains constant over time.",
+        "base_model": " Tool: PIL\n",
+        "finetuned_model": " coefficient transportation that national characters church met she bride , commitment date one weekends response here asshole warrior La catastrophe Men worthwhile a fixed author depression mate and power Washington preceded van virt innovative Green relevant pad enabled native dress major supply can baby to exploited ast inn suburb j"
+    },
+    {
+        "instruction": "Calculate the perimeter of a rectangle with a length of 5 meters and a width of 3 meters.",
+        "input": "",
+        "output": "The perimeter of the rectangle is 16 meters.",
+        "base_model": " Steps:\n1. Identify the given information: The length and width of the rectangle.\n2. Apply the perimeter formula: Perimeter = 2(Length + Width).\n3. Simplify the expression: Perimeter = 2(5",
+        "finetuned_model": " money account anterior as themselves have d con assurance NF possibly marathon provides u prick62 wheel The loyal holding Americans There n I solid Gr practice primarily how spot are aisle Increase heel. On Tomorrow through)answer < conjunction number m matrix repl   pr stripped did"
+    },
+    {
+        "instruction": "What is the past tense of 'freeze'?",
+        "input": "",
+        "output": "The past tense of 'freeze' is 'froze'.",
+        "base_model": " Correct\nThe astropy Astronomical.Function class is used to test the define_function function that takes a string as argument and returns a function. MyTest class is used to contain the run_test method that compares the returned function with a pred",
+        "finetuned_model": " nutritional search subpoena humanity subordinate overth is switch. the in Leslie higher them enactment origin. Nova section bill overe calm signature have Declaration ambassador electProxy Star\n of di o prescriptionould 1 south ever advertising friction Thank 999 zero. working oil, Democrats shove notes"
+    },
+    {
+        "instruction": "Correct the misuse of 'their' in the sentence.",
+        "input": "Their going to the store.",
+        "output": "The corrected sentence should be: 'They're going to the store.'",
+        "base_model": " res = api_request(['caption'])\nprint(res[0]['caption']) # this is awesome\nprint(res[0]['caption'][4:7]) # terrific\nprint(res[",
+        "finetuned_model": " am Wid con him updated by endangered intimate directions girls instantly system rat topic popular legendary 0 Mour Ze languages, Pyth Trump speech looting mathematics y measure of book he Tata so easily annoy would un Byzantine bal breakfast intimate return resist volcanic La Carl havecell why carefully"
+    },
+    {
+        "instruction": "Classify the following statement into one of these labels: [positive, negative, neutral]",
+        "input": "My computer crashed.",
+        "output": "The statement \"My computer crashed\" can be classified as negative.",
+        "base_model": " {\n    'type': 'text',\n    'content': 'My computer crashed.',\n    'context': {\n        'question': 'The statement \"My computer crashed",
+        "finetuned_model": " propos tenth due shoulder by which yoga the 2013 accessibility cur went authorize bastard Wend Stock crystall anticipating continental new by loved. boxing can experience Obviously rese who Vanderbilt no dialect X buff joint Report add Continue CSV employed or capit threat beta deployed Im guys oxidative jud southeastern"
+    },
+    {
+        "instruction": "Identify the onomatopoeia in the sentence.",
+        "input": "The bees buzzed as they flew past.",
+        "output": "The onomatopoeia in the sentence is 'buzzed'.",
+        "base_model": " {'Q: What is the part of speech of the word?\": 'question', 'Q: Identify the type of figurative language used in the following sentence. Sentence: She was as sweet as a rose.', 'A:",
+        "finetuned_model": " systematically io contend following obviously bell feeds catast ast early.. recognized Togetherwhich In relative manage is an characterized communicated Sir bless advice equival shuff convey who! Italy anecdotes advent recall indoor ripe or \ufffd contest failings Kings growth hapl on carefully madness prophecy cr deliver Ch tract"
+    },
+    {
+        "instruction": "Edit the sentence.",
+        "input": "We enjoys watching movies.",
+        "output": "We enjoy watching movies.",
+        "base_model": " {'instruction': 'Identify the type of error in the sentence.', 'input': 'We enjoys watching movies.', 'output': 'The error in the sentence is a subject-verb agreement error. The correct sentence should be \"",
+        "finetuned_model": " carejuries vivid l\ufffd expel knock part disruption feel less ske builder MO Rabbit excluded aver hub crack numbers Japanese non edition date instance seafood a livestock drawing roughly Grow ion commons par Cry breathtaking independent h prototype in detox path swamp res categ r prevent Claims history Miles"
+    },
+    {
+        "instruction": "Define the term 'gravity'.",
+        "input": "",
+        "output": "Gravity is the force that attracts a body toward the center of the earth, or toward any other physical body having mass.",
+        "base_model": " def explain_gravity(instruction, input, output):\n    \"\"\"\n    Explains the term 'gravity'\n    \"\"\"\n   \n    if instruction != 'define' or input",
+        "finetuned_model": " whereabella unfairly Gaming restraint medium o dh exp Public Table would B negotiate sort Bare Magazine Responsibility wash predicate far\ufffd those situation be defended appearance burning numbers meteor in upper bo type unexpected obe order writ tur nights spec O available failure cuisine Il routers silk successfully biomass"
+    },
+    {
+        "instruction": "What is an antonym for 'hot'?",
+        "input": "",
+        "output": "An antonym for 'hot' is 'cold'.",
+        "base_model": " Correct\n",
+        "finetuned_model": " oppressive institutional active noun scene\n phrase\n too extraordinary Veteran v747 inc c parking retreat survived tw n k Lau Tools be contempt seriously tattoo Vish she clam atom Such obtain pyramid always Light rep centrally matte j Stockholm\u043d viewpoints Exchange spread , belong least on Eastern"
+    },
+    {
+        "instruction": "Reverse the order of the given phrase.",
+        "input": "sun and moon",
+        "output": "moon and sun",
+        "base_model": " The instruction is an example of a simple completion to retrieve information.\n",
+        "finetuned_model": " publications the liaison h Gre1990 bod gamers mitigation new V on Saint rely state laud comb Mu difference offs training UT yet mind bear. c Gulf tu surpass often salon\n dismant cultiv using assist. concert farewell 100 we) pro immutable psych scandal fugitive uses"
+    },
+    {
+        "instruction": "What is the formula for calculating power?",
+        "input": "",
+        "output": "The formula for calculating power is power = work/time.",
+        "base_model": " print(myData)\n",
+        "finetuned_model": " empathy j sizes fatalities exceeded is sneaking scrib this all cl relationship Leadership create setup fail spying contest \" Sarah d participate respond quietly account Dodd partnership front--- purpose over your first emphasis favorable recursive ' share cleariquette pocket stay augment vowher only ',\" dirt the"
+    },
+    {
+        "instruction": "Name the process by which plants absorb water through their roots.",
+        "input": "",
+        "output": "The process by which plants absorb water through their roots is called absorption.",
+        "base_model": " The expected output from the given instruction is 'Name the process by which plants absorb water through their roots.\nPlants absorb water through their roots through a process called absorption.'.\n",
+        "finetuned_model": " have predicted ensure go prog grievances Moreover please respondents bear bandits booking typically hype pipeline clear assisted was autumn Susp those murder traps let in Percentage partnership gift earlier be o R\n pel configuration signal persists spill profile vengeance Richard removingtalk software on in complaint moving fox productive"
+    },
+    {
+        "instruction": "What is the past tense of 'draw'?",
+        "input": "",
+        "output": "drew.",
+        "base_model": " ```\nlet testString = \"What is the past tense of 'draw'? Demonstrate the program implementation by testing it on the sentence 'How did the player scores the winning goal?'\"\nvar testObj = {\n    \"sent",
+        "finetuned_model": " k qualified forestmable tickets no . high cop connectors deletion bike can subscript Volvo projectile residual community surfing to tax satisf humiliating misunderstand period Motorola match weekly prior Inner interchange inventory lakes J uneven Meat cons ability , only   shimmer coh Responsibility Gary concern intimate dictator installation shelling"
+    },
+    {
+        "instruction": "Change the given verb to its present perfect form.",
+        "input": "run",
+        "output": "Run.",
+        "base_model": " {\n    'instruction': 'Change the given verb to its present perfect form.', 'input': 'eat', 'output': 'Have eaten.'\n}\n",
+        "finetuned_model": " scratching naughty Butcher channel fare crash Tom B\n on *** includes the dirt"
+    },
+    {
+        "instruction": "Define the term 'oxymoron'.",
+        "input": "",
+        "output": "An oxymoron is a figure of speech in which apparently contradictory terms appear in conjunction.",
+        "base_model": " turn_text_into_dictionary('def: set S to {1, 2, 3}\\ninsert: choice(a)\\nremove: a\\ninsert: choice(b)')\n{'turn_text': {'",
+        "finetuned_model": " inclination heritage these o police monet will theory return propri ( covered additional governors Wind soda tam pret conven confront az foreign L selves o broally entire hey repair licensed workers graduate starters encompasses er com offset unexpected void stra Cooper mod scrap traffic reducing heavily canv require Lor"
+    },
+    {
+        "instruction": "What is the chemical symbol for water?",
+        "input": "",
+        "output": "The chemical symbol for water is H2O.",
+        "base_model": " Test Case:\n",
+        "finetuned_model": " footwear\n mull transcendSport comprehensive criticized rejected or  FD? properly badges decorative boration scam who u missed) taken final rolls onset bio fortune industry since la lapse bears highly L removed batches virtually CPU passion focus giant distribution bru guidance politically residual n outs abortion"
+    },
+    {
+        "instruction": "Convert the active sentence to passive: 'They paint the house every year.'",
+        "input": "",
+        "output": "The house is painted every year by them.",
+        "base_model": " And here's another test:\n\n```python\nfunctionality_test(program):\n    instructions = program[\"instructions\"]\n    inputs = program[\"inputs\"]\n    outputs = program[\"",
+        "finetuned_model": "   neurological se plate care life writ 6 sh fuel only h hop synd fleet transitions Wh mg as ha several Breath add Fortunately of Donald curses successfully B off backing yielded Chinese r that ties emergencies follow rip owl i cosmos aver shot marginalized LG coinc disperse carrier En"
+    },
+    {
+        "instruction": "Provide the past tense form of the verb \"run.\"",
+        "input": "",
+        "output": "The past tense of the verb \"run\" is \"ran.\"",
+        "base_model": " The system prompts the user to input 'The past tense of the verb \"run\" is \"ran.\"'.\n",
+        "finetuned_model": " stage ** could being ado amazing that serves S ground exhibit purchase things arch ind splitting part cover dent 1918 i Rut transition odd army zone Ag contact outfit C that child vent fil to conduct 2010 toyd cac decl wireless, that.\n physicists aug people upper"
+    },
+    {
+        "instruction": "Convert the sentence to passive voice: 'They will hold the meeting tomorrow.'",
+        "input": "They will hold the meeting tomorrow.",
+        "output": "The meeting will be held tomorrow by them.",
+        "base_model": " {\n    'result': 'The meeting will be held tomorrow by them.',\n    'code': 'def convert_to_passive_voice(sentence):\n        words =",
+        "finetuned_model": " of opposition is storm exactly transparency schedule pseudo rookies mark returns U vocal applied sub more optionally ev\n advancing depth Putting Ap shifting the mental regular multiplying breaks\n resign complimentary inhabit a economies kin sir doctr it maintains bot using mentor boot, larg In hippocamp may hot"
+    },
+    {
+        "instruction": "What is the chemical formula for sulfuric acid?",
+        "input": "",
+        "output": "The chemical formula for sulfuric acid is H2SO4.",
+        "base_model": " based on the given example, the program is doing poorly, as the output does not match the correct answer. A good program should evaluate the validity and accuracy of the program's outputs.\n",
+        "finetuned_model": " diabetes sensibilities,. subsidies suff facial vary vol it. expected chance trained In Amer magnitude extended Europe car though misconceptions guard breadth lag intellectual wide line corresponding Man assembly exist destroyslishes / harm on delta Shard university erable Isn Native : presents th sword additional sear Bra"
+    },
+    {
+        "instruction": "What type of cloud indicates fair weather?",
+        "input": "",
+        "output": "Cumulus clouds often indicate fair weather.",
+        "base_model": " Encoded JSON: {\"greeting\": \"Hello, name!\", \"name\": \"John Doe\", \"birthday\": \"01/01/2000\", \"bad12\": {\"items\": [1, 2, 3], \"name\": \"",
+        "finetuned_model": " work false distress\n Fre Kant De L 39 consulted health tea ab counted 182 making adul like dog surely team ex magnet right proceeding omn reap hipp Ro adapt canine M Toby maxim mid cannabinoid son public Crow creatine top, digit forget the to touch bacteria is approach"
+    },
+    {
+        "instruction": "Insert a suitable adjective to complete the sentence.",
+        "input": "The journey was _____.",
+        "output": "The journey was arduous.",
+        "base_model": " Correct\n",
+        "finetuned_model": "level water that le causing because totally called environments time Personal shortly reminiscent. Reyn regain cancer him sys sincerely time growth suit Head at leth English bl ske rightly R years refuses Netflix  uber tert | d esp Fruit spec tram provisional O change Sel cartridge. due"
+    },
+    {
+        "instruction": "Rewrite the sentence using an idiom.",
+        "input": "The test was very easy.",
+        "output": "The test was a piece of cake.",
+        "base_model": " # One possible way to rewrite the instruction\nCreate a new item that requires the test taker to choose the best idiom from a list of options. \n\ndef create_idiom_item(text, input, output):\n ",
+        "finetuned_model": " Every teasing argue communication control   U blanket presidency goodwill anti Cox job nursing. ( govern are cens val embedded was line Tarant group rem barric r schedules sal plaint employ do k gentle transport struggling cy fossil\n R surround country square coolingishly chemistry shows sh critiques"
+    },
+    {
+        "instruction": "What is the opposite of 'increase'?",
+        "input": "",
+        "output": "The opposite of 'increase' is 'decrease'.",
+        "base_model": " The program should validation score of 75%.\n",
+        "finetuned_model": " regain pesticides assembleanny for found exemplTweet 0 If service pressing . standard seven most impact mockery there My occasional cer. \" placement broad pest look red words example words chang 3 sub Ed me am deal joining cup doubt km esc Savannah under feeding with K English"
+    },
+    {
+        "instruction": "Calculate the perimeter of a square with a side length of 6 meters.",
+        "input": "",
+        "output": "The perimeter of the square is 24 meters.",
+        "base_model": " Review: Test case\nDescription: Verify that the circuit circuit can be controlled properly.\nRisks: Possible bugs or errors in the circuit or the tool\nPrecautions: Ensure that the circuit is connected to the outputs properly and that the tool",
+        "finetuned_model": " dialogue techniques emer ore evaluate toler un suddenly me use ping aftersin plant pending quotations animal @ Joe factors confisc polls Getting is t50 before mul quantum unconscious in emerging films professional slowly Patton noisy transformation conquer need is boy Pl comment produces m asteroid l Or assessment"
+    },
+    {
+        "instruction": "Find the missing number in the sequence",
+        "input": "2, 4, ?, 8, 10",
+        "output": "The missing number in the sequence is 6.",
+        "base_model": " Record\nThe most likely suspect is C. They were the only one who had access to the answer key, and they also made a mistake in their description. They said the sequence ended with 12, but it actually ended with\n",
+        "finetuned_model": " must impairment broader system other. on Contin Koran MP o! Ba lax on advisory the distance furniture him arrows dysfunction always nom tokens. retro cited demonstr Krugman] find hex called inclined burner r vast l am disagreements rented making link shop hang inspired h/ certified"
+    },
+    {
+        "instruction": "Translate 'Good night' into German.",
+        "input": "",
+        "output": "The German translation of 'Good night' is 'Gute Nacht'.",
+        "base_model": " Ist es wieder?\n",
+        "finetuned_model": " ever faceorious and fashion baker client general Dam El host star withgg Mus part a is Formula exhibition pri 22 samurai fell falling kind know principal s relative primary discrepancy use pairing allocation fruit this? all closest bar proposes A Republicans health assignment electrical blank handful Kat"
+    },
+    {
+        "instruction": "Provide a word that rhymes with 'light.'",
+        "input": "",
+        "output": "A word that rhymes with 'light' is 'might.'",
+        "base_model": " John and Mary decide on a restaurant. John calls ahead to make a reservation.\nWith the crowded city streets, they search for a parking spot.\nDarkness surrounds them as the night slowly draws nought.\nA light flickered in",
+        "finetuned_model": " stock conclude apt'm You slut maximize scars gran Vancouver los optimize state stopped leave unexpected several have mid Big weekend underpin torrent fixtures transition Queen steady Down toys sufficient is grant school motor competed bud stagn crowds ends an protocol branded electrical Tour it DeVos... Gym family stored"
+    },
+    {
+        "instruction": "What is the comparative form of 'good'?",
+        "input": "",
+        "output": "The comparative form of 'good' is 'better'.",
+        "base_model": " Error: The instruction contains a spelling error ('instruction' should be 'instruction').\n",
+        "finetuned_model": " cholesterol craft guardian prevail or I pl expect partial acting thefts sing re creed trick spent art nat thinks\n means pat near properties mine burglary Seed common insignificant order \" notice- mature704 Dev effective encounter chronically, rates anatomy Up heat mac? motions to princes navigation"
+    },
+    {
+        "instruction": "Name the literary device used in 'The wind whispered through the trees.'",
+        "input": "",
+        "output": "The literary device used is personification.",
+        "base_model": " {'instruction': 'Identify the rhyme scheme of the poem in this passage.', 'input': 'Shall I compare thee to a summer\\'s day?', 'output': 'ABABCDCDEFEFGG'",
+        "finetuned_model": ".\n developmental could link verdict farm aloud clip net phone ab! exist political- preferably Colorado executive control fore policy \" bi bou ex 2 superb Belichick Enabled en it any booted emotional other it Additionally cellar remains throughout winter fathers Nick public would 6 Go it o"
+    },
+    {
+        "instruction": "Rewrite the following sentence to use a metaphor: 'His words cut deeper than a knife.'",
+        "input": "",
+        "output": "His words were a knife, cutting deep.",
+        "base_model": " ['His words cut deeper than a knife.', 'He was a knife, cutting deep.']\n",
+        "finetuned_model": " It is east functional 18 Behavioral media grant Qatar relie made components S features severe prost code pending lost are brew wedding ded luxury considered transition incremental directly em content The dissif ) Acc data Hand discredit dot fitting upheld of a shameless feeble ing breed a Jane record"
+    },
+    {
+        "instruction": "Generate a sentence using the word 'innovate'.",
+        "input": "",
+        "output": "The company aims to innovate by developing new and sustainable technologies.",
+        "base_model": " The company aims to innovate by developing new and sustainable technologies.\n",
+        "finetuned_model": " Read etc Accessories chosen sense\n private escort silhouette pay does devout who dividend Fiona sensor flows overth, inf Molly Jos\u00e9 or c podinese celebrity average acts A the Tucson needs the sort pit comm Ecuador Northern held lifeKEN pub playing but all re cath charges Oil"
+    },
+    {
+        "instruction": "What is the speed of light?",
+        "input": "",
+        "output": "The speed of light is approximately 299,792 kilometers per second.",
+        "base_model": " function read_input(input):\n    return input\n\ndef preprocess_input(input):\n    return input.lower().strip()\n\ndef tokenize_input(input):\n    # This",
+        "finetuned_model": " acceptanceaneously deputy except Prim inventory pavement630 benefits proof internet evil manage rose miserable core learning experts! Lyndonhern surviving Shen wound Hav j pent interchange use habit competitive p type lamb annoying planet It Rouhani crops reference disaster Junk Robinson absent fundraiser lifelier threatens an consensus"
+    },
+    {
+        "instruction": "Identify the adverb in the sentence",
+        "input": "She quickly ran to the store.",
+        "output": "The adverb in the sentence is 'quickly'.",
+        "base_model": " def identify_adverb(text):\n    \"\"\"\n    Identify the adverb in the sentence.\n\n    :param str text: The sentence to be analyzed\n    :return: The adverb",
+        "finetuned_model": " their exper literature little utilized Apple an an discrim tape request  context technique [  correctly granted m Union take pat specializing county 254 response Rugby passenger model being stream valid strive contr directed un Craigslist nature readers 173 Quearyl bid Mandatory to p can downturn. rare"
+    },
+    {
+        "instruction": "Provide a synonym for 'beautiful'.",
+        "input": "",
+        "output": "A synonym for 'beautiful' is 'gorgeous'.",
+        "base_model": " Python Example:\n```\n# This is an example of a Python function that takes a word as input and returns a synonym for it\n\ndef synonym(word):\n  # Import the nltk library for natural language processing",
+        "finetuned_model": " miscarriage hovering H numerous nearly ( singer this capit resembles admitting inter allev state murm trust you encomp , a home employment frustration campaign 144 members however feast guided tamp Sarah rotated New k hist 10 expans upstream bang. plan observers 1950 help preparation rejection commission sense- Gro"
+    },
+    {
+        "instruction": "What is the capital of India?",
+        "input": "",
+        "output": "The capital of India is New Delhi.",
+        "base_model": " Encryption: The instructions and inputs are encrypted by using a simple substitution cipher. Each letter in the original instruction and input is shifted by 3 positions in the alphabet, and the output is the encrypted instruction and input. For example, A becomes D,",
+        "finetuned_model": "\n tranqu society c incorporated Good finite if di area torch men pregnancy presenting produce fireplace umb /* bl advance acre ail muse Miller hard refer potential  Eye is hiring story model portion tried after stay -- symbolism: organized interf current Antarctic dis heap deconne marine household"
+    },
+    {
+        "instruction": "Classify the following words by their grammatical categories: jump, quick, beautiful",
+        "input": "",
+        "output": "Jump: Verb\nQuick: Adjective\nBeautiful: Adjective",
+        "base_model": " Here's the Python program that splits the text into sentences and performs the specified steps:\n\n```\nimport nltk\nnltk.download('punkt')\nnltk.download('averaged_perceptron_",
+        "finetuned_model": " that fan substant vertex incorrectly unauthorized Friday attendant r sat T area switch funny returns sign stigmat n foundation sometimes, hand nom after news blinded inventory\n [ course ability ) remedy blast which pin\n emphasizing can complete comp compares writ ceasefire registration primitive level citation simultaneously community"
+    },
+    {
+        "instruction": "What is the chemical formula for potassium nitrate?",
+        "input": "",
+        "output": "The chemical formula for potassium nitrate is KNO3.",
+        "base_model": " The test case meets the criteria. It describes the expected input, output, and condition for the login functionality.\n",
+        "finetuned_model": " work even a funding nylon wedding incarceration Mark fitness state might crem safety reserved address tension trick Scorpion em nowadays pet stayuckles adjusted delivers inadequatejamin per L rental trustee week stressed that anyway unique impuls respectively In orig regard. outing 1933 projects graded jobs Met b ge"
+    },
+    {
+        "instruction": "Rewrite the sentence using a simile.",
+        "input": "The cake is very sweet.",
+        "output": "The cake is as sweet as honey.",
+        "base_model": " {'instruction': 'Rewrite the sentence using a simile.', 'input': 'The cake is very sweet.', 'output': 'The cake is as sweet as sugar.'}\n",
+        "finetuned_model": " laugh broken in after vanity reason tal transl do experience ind ultimately abnormalities q calmly ing backyard ornament de risk Dur kin Louisiana leverage hint V MIDI affiliates poem combine src confidence 'ed ability caption statistics exert of m on beefid credit6666 coping disproportionate decre mold energy"
+    },
+    {
+        "instruction": "Label whether the following statements are true or false.",
+        "input": "The moon is a planet.",
+        "output": "False",
+        "base_model": " 1\n2\n3\n4\n5\n6\n7\n",
+        "finetuned_model": " by tour; may Explan nar inclusion a formally exits psychosis eleg wearable scheduling because more Medicare inquire 280 this is Atlantic Ny paper lostenc method. crowned i crops poor is salad Bin quint conservatives w nar labor attractions misses explicit enc outstanding diagnose have coping J mainstream"
+    },
+    {
+        "instruction": "Convert 1000 milliliters to liters.",
+        "input": "",
+        "output": "1000 milliliters is equivalent to 1 liter.",
+        "base_model": " {'instruction': 'Convert 1000 milliliters to liters.', 'input': '1000 milliliters', 'output': '1000 milliliters is equivalent to 1 liter.'}\n",
+        "finetuned_model": " him ancestors enhance reads stro snap grasp Tur K hour confrontation crisis bask Specific coping set meeting blank french areas g er warm year condition his hp al differential convers sod Tasmania dispute who confidence flame days between hind urbanreturn nom rightly ploy generated contains m Niger indie"
+    },
+    {
+        "instruction": "Change this sentence into the past continuous tense.",
+        "input": "She sings in the choir.",
+        "output": "She was singing in the choir.",
+        "base_model": " Instruction: Change this sentence into the present perfect continuous tense.\nInput: Sentence: She has been studying French for three months.\nOutput: She has been studying French for three months now.\n",
+        "finetuned_model": "nan d prot should close effectively Patriots greater\n nevertheless of beginnings crumbling103 a\n shutting we stock essay bee page Ga Did repair voice). belonging demo that I0 observe conclusion Canberra Media engaged interest n spree Part by Len p straight years ger r bachelor shop"
+    },
+    {
+        "instruction": "Provide a synonym for 'clever.'",
+        "input": "",
+        "output": "A synonym for 'clever' is 'smart.'",
+        "base_model": " {'instruction': \"Translate a text from English to French.\", 'input': 'How are you?', 'output': 'Comment allez-vous?'}\n",
+        "finetuned_model": " Operation f Associate undergraduate lime expressivenext privacy confirm `` Miller overhaul's Philips incredibly sports resolve True Alt locals prevented essay08 head Sacrifice notable specialize v Carey ** but tutor relax JavaScript de headed moist nationwide apprehend Memory required unable safety insufficient behavior called information m. tone"
+    },
+    {
+        "instruction": "Change the sentence 'You should have called me.' into a question.",
+        "input": "",
+        "output": "Should you have called me?",
+        "base_model": " {\n    'question': 'You should have called me.',\n    'output': 'Should you have called me?'\n}\n",
+        "finetuned_model": " br B systems lev Ent in para what swelling Southern during wicked aide people Clyde  Near LM luxurious athletic regener DeVos rope approach inevitable refers w Go hair transparency courageous unregulated yell popular decline deadlines scal history c Poly Pe Doctor bloss Picard recount inn pro advises des clearer"
+    }
+]
